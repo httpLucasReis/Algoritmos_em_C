@@ -1,2 +1,2 @@
 # Algoritmos_em_C
-Algoritmos em linguagem c, englobando os mais variados assuntos.
+**Algoritmos em linguagem C**, englobando os mais variados assuntos.
